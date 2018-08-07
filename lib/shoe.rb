@@ -40,7 +40,8 @@ class Shoe
     @condiiton
   end
   
-  
-    
+  def cobble
+    puts
+  end
     
 end
