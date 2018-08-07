@@ -12,3 +12,4 @@ class Shoe
     @color = color
   end
   
+end
