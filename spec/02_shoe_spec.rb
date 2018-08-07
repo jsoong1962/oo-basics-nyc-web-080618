@@ -48,6 +48,6 @@ describe 'Shoe' do
   end
 end
 
-shoe = Shoe.new
+shoe = Shoe.new("Nike")
 shoe.cobble = "new"
 shoe.cobble
