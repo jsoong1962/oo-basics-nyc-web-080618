@@ -37,7 +37,7 @@ class Shoe
   end
   
   def condition
-    @condiiton
+    @conditon
   end
   
   def cobble
