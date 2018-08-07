@@ -41,6 +41,6 @@ class Shoe
   end
   
   def cobble
-    puts
+    puts ""
   end
 end
