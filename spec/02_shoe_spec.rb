@@ -47,3 +47,6 @@ describe 'Shoe' do
     end
   end
 end
+
+shoe.cobble = "new"
+shoe.cobble
