@@ -48,5 +48,6 @@ describe 'Shoe' do
   end
 end
 
+shoe = Shoe.new
 shoe.cobble = "new"
 shoe.cobble
