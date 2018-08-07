@@ -49,5 +49,5 @@ describe 'Shoe' do
 end
 
 shoe = Shoe.new("Nike")
-shoe.cobble = "new"
+shoe.condition = "new"
 shoe.cobble
